@@ -1,0 +1,35 @@
+/* Javadoc style sheet */
+
+/* Define colors, fonts and other style attributes here to override the defaults */
+
+/* Page background color */
+body { background-color: #FFFFFF; color:#660066; font-family: Impact}
+
+/* Headings */
+h1 { font-size: 145% }
+
+a{
+   color:#660066;
+}
+
+/* Table colors */
+.TableHeadingColor     { background: #CCCCFF; color:#ff00ff;
+    background-color: #660066;
+} /* Dark mauve */
+.TableSubHeadingColor  { background-color: #9933ff; color:#660066 } /* Light mauve */
+.TableRowColor         { background-color: #FFFFFF; color:#660066 } /* White */
+
+/* Font used in left-hand frame lists */
+.FrameTitleFont   { font-size: 100%; font-family: courier-new; color:#000000 }
+.FrameHeadingFont { font-size:  90%; font-family: courier-new; color:#000000 }
+.FrameItemFont    { font-size:  90%; font-family: courier-new; color:#000000 }
+
+/* Navigation bar fonts and colors */
+.NavBarCell1    { background-color:#660066; color:#ff00ff} /* Light mauve */
+.NavBarCell1Rev { background-color:#660066; color:#FFFFFF} /* Dark Blue */
+.NavBarFont1    { font-family:courier-new; color:#000000;color:#ff00ff;}
+.NavBarFont1Rev { font-family:courier-new; color:#FFFFFF;color:#ff00ff;}
+
+.NavBarCell2    { font-family:courier-new; background-color:#FFFFFF; color:#000000}
+.NavBarCell3    { font-family:courier-new; background-color:#FFFFFF; color:#000000}
+
